@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ![Sushant's github stats](https://github-readme-stats.vercel.app/api?username=susheternal&count_private=true&show_icons=true&theme=algolia&hide=contribs,issues)
 
-![Sushant's top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=susheternal&layout=compact&theme=algolia)
+![Sushant's top used languages](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=susheternal.github.io&theme=buefy")
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=susheternal&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)

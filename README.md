@@ -20,5 +20,3 @@ Here are some ideas to get you started:
 ![Sushant's top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=susheternal&layout=compact&theme=algolia)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=susheternal&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-[![Sushant's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=susheternal&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
